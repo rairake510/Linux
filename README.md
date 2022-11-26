@@ -1,2 +1,2 @@
-# Linus
-Script de Linus
+# Linux
+Script de Linux
